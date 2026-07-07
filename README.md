@@ -137,20 +137,15 @@ Jupyter Notebook • Google Colab • Windows • macOS
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanmuka986&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmuka986&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmuka986&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmuka986&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmuka986&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Shanmuka986&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
