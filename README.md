@@ -1,102 +1,118 @@
 <h1 align="center">Hi 👋, I'm Thugadam Shanmuka Sai</h1>
-<h3 align="center">AI & Machine Learning Student | Data Analytics Enthusiast | Full Stack Developer</h3>
+
+<h3 align="center">
+AI & Machine Learning Student | Data Analytics Enthusiast | Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Data+Analytics+Enthusiast;Full+Stack+Developer;Building+Intelligent+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+%7C+Power+BI+%7C+Python;Full+Stack+Developer;Always+Learning+New+Technologies;Open+to+Internships+and+Collaborations" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & ML) Student (2023–2027)
-- 🏫 Madanapalle Institute of Technology & Science
-- 🌱 Currently learning **Advanced Machine Learning, FastAPI, Generative AI and Data Analytics**
-- 💻 Passionate about **AI, Machine Learning, Data Analytics, Python and Full Stack Development**
-- 📊 Love transforming data into meaningful insights
-- 🚀 Looking for **AI/ML, Data Analytics and Software Engineering Internships**
-- ⚡ Fun Fact: I enjoy building projects that solve real-world problems.
+🎓 B.Tech Computer Science Engineering (AI & ML) Student
 
----
+🏫 Madanapalle Institute of Technology & Science
 
-## 🌱 Currently Working On
+📊 Passionate about Data Analytics, Machine Learning and Full Stack Development
 
-- 🤖 DataPilot AI
-- 📊 Power BI Dashboards
-- 🧠 Machine Learning Projects
-- ⚡ FastAPI Applications
-- 📈 Data Analytics Projects
+💻 I enjoy building AI-powered applications that solve real-world problems.
 
+
+🎯 Looking for
+
+- AI/ML Internships
+- Data Analytics Internships
+- Software Development Internships
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+<table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c" />
-</p>
+<tr>
+<td width="180"><b>👨‍💻 Languages</b></td>
+<td>
 
-### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=python,java,js"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind" />
-</p>
+</td>
+</tr>
 
-### ⚙️ Backend
+<tr>
+<td><b>🌐 Frontend</b></td>
+<td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=angular,html,css"/>
 
-### 🗄️ Databases
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
-</p>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
 
-### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi"/>
 
-- Machine Learning
-- Deep Learning
-- Regression
-- Classification
-- Clustering
-- Hyperparameter Tuning
-- ANN
-- CNN
-- RNN
-- LSTM
-- GRU
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 Machine Learning</b></td>
+<td>
+
+Regression • Classification • Clustering • Hyperparameter Tuning
+
+</td>
+</tr>
+
+<tr>
+<td><b>🧠 Deep Learning</b></td>
+<td>
+
+ANN • CNN • RNN • LSTM • GRU
+
+</td>
+</tr>
+
+<tr>
+<td><b>📊 Data Analytics</b></td>
+<td>
+
+Power BI • Microsoft Excel • Data Cleaning • Data Wrangling • Exploratory Data Analysis (EDA) • Statistical Analysis
+
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+<br>
+
+Jupyter Notebook • Google Colab • Windows • macOS
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 📊 Data Analytics
-
-- Microsoft Excel
-- Power BI
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Wrangling
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
-
----
-
-## 🛠 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-- Jupyter Notebook
-- Google Colab
-
----
-
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥈 Runner-Up — Xackathon 2025
 
@@ -110,7 +126,7 @@
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - Artificial Intelligence Primer
 - Principles of Generative AI
@@ -121,54 +137,76 @@
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shanmuka986&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanmuka986&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmuka986&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmuka986&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmuka986&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Shanmuka986&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 Activity Graph
 
-<p align="left">
-<a href="https://github.com/Shanmuka986">
-<img src="https://skillicons.dev/icons?i=github"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmuka986&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:thugadamshanmukasai@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/thugadam-shanmukasai">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:thugadamshanmukasai@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Shanmuka986">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 </p>
 
 ---
 
-## 💬 Quote
+# 💬 Quote
 
 > **"Building intelligent solutions today for a smarter tomorrow."**
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shanmuka986&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Shanmuka986&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
